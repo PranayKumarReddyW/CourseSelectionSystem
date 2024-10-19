@@ -137,8 +137,3 @@ This will start the frontend on `http://localhost:5173`.
 2. **JWT_SECRET**: Keep your `JWT_SECRET` secure and do not share it publicly.
 3. **Bun/NPM**: If using **Bun**, replace `npm` commands with the corresponding `bun` commands.
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can now copy this content directly into your `README.md` file in your project! Make sure to replace `yourusername` and `your-repo-name` with the appropriate details for your project repository.
